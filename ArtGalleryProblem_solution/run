@@ -1,0 +1,3 @@
+#!/bin/bash
+
+./bin/ArtGalleryProblem.app/Contents/MacOS/ArtGalleryProblem
